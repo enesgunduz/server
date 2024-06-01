@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "shopier api",
+  "main": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "enes",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^6.1.1",
+    "axios": "^1.6.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "heroku": "^8.11.5"
+  }
+}
