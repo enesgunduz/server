@@ -42,7 +42,7 @@ app.get('/category/:id', (req, res) => {
     .catch(err => console.error(err));
 })
 
-app.listen(8080, () => {
+app.listen(3000, () => {
       console.log('server listening on port 8080')
 })
 
